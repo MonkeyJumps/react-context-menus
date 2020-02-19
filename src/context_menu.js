@@ -2,7 +2,7 @@ import React, {cloneElement} from 'react';
 import ReactDOM from 'react-dom';
 import invariant from 'invariant';
 import _ from 'underscore';
-import Menu from 'react-menus';
+import Menu from 'react-menus2';
 
 const ContextMenu = (menu_items, _options = {}) => {
     return (ChildComponent) => {
