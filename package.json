@@ -1,6 +1,6 @@
 {
-    "name": "react-context-menus",
-    "version": "1.0.9",
+    "name": "react-context-menus-monkeyjumps",
+    "version": "2.0.1",
     "description": "Better context menus for React",
     "main": "lib/context_menu.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jchristman/react-context-menus.git"
+        "url": "https://github.com/MonkeyJumps/react-context-menus.git"
     },
     "keywords": [
         "javascript",
@@ -23,9 +23,9 @@
     "author": "Joshua Christman (http://github.com/jchristman)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/jchristman/react-context-menus/issues"
+        "url": "https://github.com/MonkeyJumps/react-context-menus/issues"
     },
-    "homepage": "https://github.com/jchristman/react-context-menus",
+    "homepage": "https://github.com/MonkeyJumps/react-context-menus",
     "devDependencies": {
         "@babel/core": "^7.3.3",
         "@babel/plugin-proposal-class-properties": "^7.3.4",
